@@ -6,7 +6,7 @@
 
     if (containers.length > 0) {
       // CDN link to fetch your logo from the same repository
-      const logoURL = `https://cdn.jsdelivr.net/gh/Tonyelchediac/chedilex-assets@main/chedilex-white-logo.png`;
+      const logoURL = `https://cdn.jsdelivr.net/gh/chedilex/chedilex-assets-footer@main/chedilex-white-logo.png`;
 
       const footerHTML = `
                 <div class="chedilex-footer-content" style="margin-top: 10px; color: rgba(255, 255, 255, 0.7); font-size: 0.9rem; display: flex; justify-content: center; align-items: center;">
