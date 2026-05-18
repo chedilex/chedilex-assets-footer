@@ -2,7 +2,7 @@
   console.log("Chedilex script loaded");
   function injectFooter() {
     // Targets the placeholder div in your websites
-    const containers = document.querySelectorAll(".chedilex-footer-container1");
+    const containers = document.querySelectorAll(".chedilex-footer-container");
 
     if (containers.length > 0) {
       // CDN link to fetch your logo from the same repository
