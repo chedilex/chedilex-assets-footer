@@ -10,7 +10,7 @@
       const logoURL = `https://cdn.jsdelivr.net/gh/chedilex/chedilex-assets-footer@main/chedilex-white-logo.png`;
 
       const footerHTML = `
-                <div class="chedilex-footer-content" style="margin-top: 10px; color: rgba(255, 255, 255, 1); font-size: 0.9rem; display: flex; justify-content: center; align-items: center;">
+                <div class="chedilex-footer-content no-animation" style="margin-top: 10px; color: rgba(255, 255, 255, 1); font-size: 0.9rem; display: flex; justify-content: center; align-items: center;">
                         Developed by
                         <a href="https://chedilex.pages.dev/" style="display: flex; align-items: center; text-decoration: none; color: rgba(255, 255, 255, 0.7);">
                              <img src="${logoURL}" alt="Chedilex Logo" style="height: 40px; margin-left: 2px;">
